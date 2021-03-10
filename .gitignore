@@ -63,3 +63,7 @@ buck-out/
 /ios/Pods/
 
 /ios/Podfile.lock
+/my-yapi
+yarn.lock
+tsconfig.json
+package-lock.json
